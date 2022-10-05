@@ -1,0 +1,52 @@
+.firstDiv{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+.Btn{
+
+    background-color: #f39f72;
+    padding: 8px 13px;
+}
+.colr{
+    background-color: red;
+    width: 36px;
+    height: 43px;
+}
+.clrBtn{
+
+    background-color: #eb4c669f;
+    padding: 8px 13px;}
+.input{
+
+    background-color: azure;
+}
+.black{
+    background-color: black;
+    width: 36px;
+    height: 43px;
+}
+.white{
+    background-color:white;
+    width: 36px;
+    height: 43px;}
+
+table{
+    display: table;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-color: rgb(22, 21, 21);
+    border-style: double;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.green{
+    background-color: rgb(105, 170, 21);
+    width: 36px;
+    height: 43px;}
+   
